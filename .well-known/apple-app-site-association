@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["DEINE_TEAM_ID.de.drawmory.app"],
+        "appIDs": ["7LPBMXVK6D.de.drawmory.app"],
         "components": [
           {
             "/": "/Drawmory/open/*",
